@@ -1,1 +1,1 @@
-# Huy Nguyen (Little 34306)'s Cydia Repository
+# nếu có lỗi gì hay sự cố vui lòng liên hệ
