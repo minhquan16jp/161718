@@ -1,7 +1,7 @@
 18038128
 75a9c8dc29ab5afdb8016a3616a8fcee
 
-
+https://gist.githubusercontent.com/33355555/61dfb737c4553165f591df1e719a8b72/raw/7513e07f15ce045be835d4b3985abbe7d2663c27/CONFIG_FILE_URL
 
 # Remove this line before deploying
 # Please read this for filling instructions: https://github.com/SlamDevs/slam-mirrorbot#setting-up-config-file
